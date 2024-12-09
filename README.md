@@ -1,4 +1,4 @@
-# Scenario
+# Script
 
 1. Put the laundry in the washing machine.
 2. Take out the detergent and pretend to add it to the washing machine.
