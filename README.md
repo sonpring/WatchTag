@@ -14,7 +14,7 @@
 12. Set a timer to 1 minute and wait in front of the frying pan (cooking in progress).
 13. When the timer rings, take a plate out and place the egg on the plate.
 14. Take out utensils and bring the plate to the table.
-15. Heating Leftovers & Open the microwave and bring defrosted pizza to the table.
+15. Open the microwave and bring defrosted pizza to the table.
 16. Wait for 30 seconds after all tags stop moving (eating).
 17. Take a medicine bottle from the medicine cabinet and bring it to the table.
 18. Take a cup from the cup cabinet and bring it to the table.
@@ -23,4 +23,4 @@
 21. Return the medicine bottle to the medicine cabinet.
 22. Return the water bottle to the refrigerator.
 23. Wait for 30 seconds after all tags stop moving.
-24. Laundry & Retrieve laundry from the washing machine.
+24. Retrieve laundry from the washing machine.
