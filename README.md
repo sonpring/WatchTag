@@ -1,5 +1,8 @@
-# Script
+# WatchTag Evaluation Script
 
+We ask participants to follow the script below, which consists of four activities: laundry, heating leftovers, cooking, and taking pills. In dementia case scenarios, one of three events is omitted: (1) retrieving defrosted pizza, (2) retrieving the laundry from the washing machine, or (3) taking pills. For safety reasons, participants are not asked to operate household appliances.
+
+Normal Case Scenario
 1. Put the laundry in the washing machine.
 2. Take out the detergent and pretend to add it to the washing machine.
 3. Return the detergent to the cabinet.
@@ -22,5 +25,5 @@
 20. Simulate taking the medicine.
 21. Return the medicine bottle to the medicine cabinet.
 22. Return the water bottle to the refrigerator.
-23. Wait for 30 seconds after all tags stop moving.
+23. Wait for 30 seconds after all tags stop moving (resting).
 24. Retrieve laundry from the washing machine.
